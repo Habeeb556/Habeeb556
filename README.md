@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Ahmed Habeeb a computer science student has a practical approach to problem-solving in a smooth way and a drive to see things through to completion. I am eager to learn, enjoy overcoming challenges. 
+
+- 🌱 I’m currently learning Data Science
+
 <!--
 **Habeeb556/Habeeb556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Habeeb556&count_private=true&show_icons=true&include_all_commits=true&theme=light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeeb556&hide=TeX&layout=compact)
+
