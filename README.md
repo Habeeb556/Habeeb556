@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ahmed Habeeb a computer science student has a practical approach to problem-solving in a smooth way and a drive to see things through to completion. I am eager to learn, enjoy overcoming challenges. 
+I'm Ahmed Habeeb a computer science student have a practical approach to problem-solving in a smooth way and a drive to see things through to completion. I am eager to learn, enjoy overcoming challenges. 
 
 - 🌱 I’m currently learning Data Science
 
